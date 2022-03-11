@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d новое уведомление</item>
+    <item quantity="few">%d новых уведомления</item>
+    <item quantity="many">%d новых уведомлений</item>
+    <item quantity="other">%d нового уведомления</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Ещё"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Выберите приложение"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"ВЫКЛ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ВКЛ"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Ввод"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fn +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Пробел"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Меню +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Введите запрос"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Поделиться с помощью"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Поделиться с помощью <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="bottomsheet_action_expand_halfway">Развернуть наполовину</string>
+    <string name="buzzscreen_back_to_lockscreen">Вернуться к экрану</string>
+    <string name="buzzscreen_cancel_button">"Отменить"</string>
+    <string name="buzzscreen_cardview_clean">Быстрый просмотр</string>
+    <string name="buzzscreen_cardview_cleanmode_button_description">Читать содержание Легче\nчерез Quick</string>
+    <string name="buzzscreen_cardview_content">Читать содержание</string>
+    <string name="buzzscreen_cardview_open_in_default_browser">Открыть в браузере</string>
+    <string name="buzzscreen_cardview_share">Разделить</string>
+    <string name="buzzscreen_cardview_share_invalid_url_msg">Неверный адрес URL</string>
+    <string name="buzzscreen_cardview_web">Web</string>
+    <string name="buzzscreen_category_all">Популярное</string>
+    <string name="buzzscreen_category_top_stories">Лучшие истории</string>
+    <string name="buzzscreen_channel_status_follow">Следуйте этому каналу</string>
+    <string name="buzzscreen_channel_status_following">Следуя этому каналу</string>
+    <string name="buzzscreen_default_cta">Больше</string>
+    <string name="buzzscreen_dialog_message_applied">"Сделано!"</string>
+    <string name="buzzscreen_dialog_message_empty_campaign_reason">"Мы не смогли извлечь содержимое из-за ошибки сетевого подключения, или содержимое, которое может быть показано на заблокированном экране, в настоящее время скрыто.\n\nПроверьте подключение к сети и разблокируйте экран для получения контента (содержимого)."</string>
+    <string name="buzzscreen_dialog_message_report_accepted">"Спасибо за ваш отчет"</string>
+    <string name="buzzscreen_dialog_message_will_be_applied_within_one_hour">Применяется до 1 часа.</string>
+    <string name="buzzscreen_error_status_empty_message">Похоже, сегодня ничего не видно.\n\nПожалуйста, вернитесь позже.</string>
+    <string name="buzzscreen_error_status_empty_title">Ничего не найдено</string>
+    <string name="buzzscreen_error_status_network_message">Повторите попытку при подключении wi-fi/data!</string>
+    <string name="buzzscreen_error_status_network_title">Нет соединения</string>
+    <string name="buzzscreen_error_status_unknown_message">Пожалуйста, повторите попытку позже</string>
+    <string name="buzzscreen_error_status_unknown_title">Что-то пошло не так</string>
+    <string name="buzzscreen_feed_tutorial_done">x ОК</string>
+    <string name="buzzscreen_feedback_has_been_sent">Благодарю вас.</string>
+    <string name="buzzscreen_filtered_channels_dialog_title">"Сообщить о содержании"</string>
+    <string name="buzzscreen_guide1_description">Проведите вверх, чтобы открыть другую страницу</string>
+    <string name="buzzscreen_guide1_subtitle">1 / 3</string>
+    <string name="buzzscreen_guide2_description">Проведите вниз, чтобы вернуться к первому страницу</string>
+    <string name="buzzscreen_guide2_subtitle">Готово</string>
+    <string name="buzzscreen_guide3_description">Слайд влево, Чтобы получить дополнительную информацию</string>
+    <string name="buzzscreen_guide3_subtitle">2 / 3</string>
+    <string name="buzzscreen_guide4_description">Слайд вправо, Чтобы разблокировать телефон</string>
+    <string name="buzzscreen_guide4_subtitle">3 / 3</string>
+    <string name="buzzscreen_guide_next">OK</string>
+    <string name="buzzscreen_guide_skip">ПРОПУСКАТЬ</string>
+    <string name="buzzscreen_landing_quickview_message">Получите контент быстро!</string>
+    <string name="buzzscreen_landing_quickview_title">Быстрый просмотр</string>
+    <string name="buzzscreen_landing_timeout_feedback_button">ОТЧЕТ</string>
+    <string name="buzzscreen_landing_timeout_warning">Это займет немного больше времени, чем обычно. Пожалуйста, повторите позже.</string>
+    <string name="buzzscreen_landing_webview">Веб-просмотр</string>
+    <string name="buzzscreen_landing_webview_only">Только веб-просмотр</string>
+    <string name="buzzscreen_menu_dialog_adchoices">"Почему я вижу это?"</string>
+    <string name="buzzscreen_menu_dialog_empty_campaign_reason">"Почему я вижу это?"</string>
+    <string name="buzzscreen_menu_dialog_remove_channel">"Скрыть все от %s"</string>
+    <string name="buzzscreen_menu_dialog_remove_content">"Скрыть содержимое"</string>
+    <string name="buzzscreen_menu_dialog_report_campaign">"Сообщить о этом содержании"</string>
+    <string name="buzzscreen_menu_dialog_show_filtered_channels">"Скрытые каналы"</string>
+    <string name="buzzscreen_network_error_retry">"Пожалуйста, повторите позже."</string>
+    <string name="buzzscreen_next_button">Следующий</string>
+    <string name="buzzscreen_option_channel_feed">Перейдите на страницу канала</string>
+    <string name="buzzscreen_option_follow_channel">Следуйте этому каналу</string>
+    <string name="buzzscreen_option_hide_channel">Скрыть истории с этого канала</string>
+    <string name="buzzscreen_option_open_in_browser">Открыть в браузере по умолчанию</string>
+    <string name="buzzscreen_overlay_permission_close_lockscreen_button">Выйти</string>
+    <string name="buzzscreen_overlay_permission_guide_text">Пожалуйста, дайте разрешение Наложение поверх других окон для %1$s, чтобы обеспечить надлежащую функциональность.</string>
+    <string name="buzzscreen_overlay_permission_guide_text_forced">Пожалуйста, дайте требуемое разрешение Наложение поверх других окон для %1$s, чтобы обеспечить надлежащую функциональность.</string>
+    <string name="buzzscreen_overlay_permission_later_button">Позже</string>
+    <string name="buzzscreen_overlay_permission_ok_button">Разрешить</string>
+    <string name="buzzscreen_privacy_age_under_16_notice">Вы должны быть не моложе 16 лет, чтобы согласиться на персонализированную работу на экране.</string>
+    <string name="buzzscreen_privacy_revoke_content">Отказавшись от этого, вы больше не будете получать персонализированные объявления или контент</string>
+    <string name="buzzscreen_privacy_revoke_content2">"Подождите! Если вы подтвердите, вы не сможете правильно использовать экран блокировки. Вы уверены, что хотите продолжить?"</string>
+    <string name="buzzscreen_privacy_tease_consent_content">"Если вы подтвердите, что не сможете продолжить правильно использовать экран блокировки.\nВы хотите продолжить?"</string>
+    <string name="buzzscreen_report_dialog_title">"Почему это неприемлемо?"</string>
+    <string name="buzzscreen_report_message_broken_web_page">"Веб-страница не отображается должным образом"</string>
+    <string name="buzzscreen_report_message_disagree_with_it">"Я не согласен с этим"</string>
+    <string name="buzzscreen_report_message_etc">"Другие"</string>
+    <string name="buzzscreen_report_message_misleading_or_scam">"Это вводит в заблуждение или это мошенничество"</string>
+    <string name="buzzscreen_report_message_offensive">"Это оскорбительно"</string>
+    <string name="buzzscreen_report_message_sexually_inappropriate">"Содержание непристойного характера"</string>
+    <string name="buzzscreen_report_message_unclear_image">"Изображение неясное."</string>
+    <string name="buzzscreen_report_message_violent_or_prohibited">"Это контент, содержащий насилие и запрещенные материалы"</string>
+    <string name="buzzscreen_retry_button">"Повторите"</string>
+    <string name="buzzscreen_security_already_not_using">"Применено"</string>
+    <string name="buzzscreen_security_applied_not_using">"Применено"</string>
+    <string name="buzzscreen_security_banner_close">Закрыть</string>
+    <string name="buzzscreen_security_banner_setting_button">Настройки</string>
+    <string name="buzzscreen_security_banner_text">"Защитите ваше устройство, включив функцию блокировки доступа."</string>
+    <string name="buzzscreen_security_button_cancel">Отменить</string>
+    <string name="buzzscreen_security_button_confirm">Подтвердить</string>
+    <string name="buzzscreen_security_button_continue">Далее</string>
+    <string name="buzzscreen_security_button_ok">Подтвердить</string>
+    <string name="buzzscreen_security_button_retry">Повторить</string>
+    <string name="buzzscreen_security_button_skip">Пропустить</string>
+    <string name="buzzscreen_security_current_lock_type">Текущий тип блокировки</string>
+    <string name="buzzscreen_security_hint_edit_text_hint">Подсказка</string>
+    <string name="buzzscreen_security_none">Не использовать</string>
+    <string name="buzzscreen_security_none_desc">Не использовать блокировку доступа</string>
+    <string name="buzzscreen_security_overlay_permission_msg">"Если вы хотите использовать функцию блокировки доступа на экране, вам необходимо разрешить, чтобы приложение %s отображалось над другими приложениями. Хотите продолжить?"</string>
+    <string name="buzzscreen_security_pattern">Графический ключ</string>
+    <string name="buzzscreen_security_pattern_desc">Нарисуйте графический ключ, чтобы разблокировать</string>
+    <string name="buzzscreen_security_pattern_draw_new_pattern">Нарисуйте графический ключ, чтобы разблокировать</string>
+    <string name="buzzscreen_security_pattern_draw_old_pattern">Нарисуйте текущий графический ключ</string>
+    <string name="buzzscreen_security_pattern_draw_pattern">Нарисуйте графический ключ, чтобы разблокировать</string>
+    <string name="buzzscreen_security_pattern_draw_to_confirm">Нарисуйте графический ключ ещё раз, чтобы подтвердить</string>
+    <string name="buzzscreen_security_pattern_hint">"Подсказка графического ключа"</string>
+    <string name="buzzscreen_security_pattern_hint_desc">"Подсказка поможет вам, если вы забудете свой графического ключ. Используйте то, что поможет вам вспомнить, но не поможет кому-то еще угадать ваш графического ключ."</string>
+    <string name="buzzscreen_security_pattern_preview_new_pattern">Ваш графический ключ:</string>
+    <string name="buzzscreen_security_pattern_release_when_finished">Отпустите палец, когда закончите</string>
+    <string name="buzzscreen_security_pattern_temporary_saved">Графический ключ сохранен</string>
+    <string name="buzzscreen_security_pattern_too_short">Используйте как минимум 4 точки.</string>
+    <string name="buzzscreen_security_pattern_toolbar_text">Установить графический ключ</string>
+    <string name="buzzscreen_security_pattern_warning_notice">Запомните данный код-пароль.\nЕсли вы забудете код-пароль, будет необходимо сбросить настройки телефона, в данном случае все данные телефона будут потеряны.</string>
+    <string name="buzzscreen_security_pattern_wrong_pattern">Графический ключ не совпадает</string>
+    <string name="buzzscreen_security_pattern_wrong_pattern_try_again">Неверный графический ключ. Попробуйте снова.</string>
+    <string name="buzzscreen_security_permission_banner_text">"Если вы хотите использовать функцию блокировки доступа на экране, вам необходимо разрешить, чтобы приложение %s отображалось над другими приложениями. Хотите продолжить?"</string>
+    <string name="buzzscreen_security_pincode">Код-пароль</string>
+    <string name="buzzscreen_security_pincode_desc">Введите код-пароль, чтобы разблокировать</string>
+    <string name="buzzscreen_security_pincode_enter_code">Введите код-пароль, чтобы разблокировать</string>
+    <string name="buzzscreen_security_pincode_enter_new_code">Введите новый код-пароль</string>
+    <string name="buzzscreen_security_pincode_enter_old_code">Введите текущий код-пароль</string>
+    <string name="buzzscreen_security_pincode_enter_to_confirm">Введите код-пароль ещё раз, чтобы подтвердить</string>
+    <string name="buzzscreen_security_pincode_hint">"Подсказка код-пароля"</string>
+    <string name="buzzscreen_security_pincode_hint_desc">"Подсказка поможет вам, если вы забудете свой код-пароль. Используйте то, что поможет вам вспомнить, но не поможет кому-то еще угадать ваш код-пароль."</string>
+    <string name="buzzscreen_security_pincode_tap_confirm">Нажмите Подтвердить, чтобы закончить</string>
+    <string name="buzzscreen_security_pincode_tap_continue">Нажмите Далее, чтобы закончить</string>
+    <string name="buzzscreen_security_pincode_too_short">Код-пароль должен состоять из 4 цифр</string>
+    <string name="buzzscreen_security_pincode_toolbar_text">Установить код-пароль</string>
+    <string name="buzzscreen_security_pincode_warning_notice">Запомните данный код-пароль.\nЕсли вы забудете код-пароль, будет необходимо сбросить настройки телефона, в данном случае все данные телефона будут потеряны.</string>
+    <string name="buzzscreen_security_pincode_wrong_pin">Код-пароль не совпадает</string>
+    <string name="buzzscreen_security_pincode_wrong_pin_try_again">Неверный код-пароль. Попробуйте снова.</string>
+    <string name="buzzscreen_security_screen_lock">Использовать блокировку доступа</string>
+    <string name="buzzscreen_security_stu_opt_out_button">Не показывать это снова</string>
+    <string name="buzzscreen_security_stu_opt_out_done">Данный экран скрыт.</string>
+    <string name="buzzscreen_security_stu_opt_out_popup_text">Вы можете скрыть данный экран, когда включена функция блокировки экрана системы. Хотите скрыть данный экран?</string>
+    <string name="buzzscreen_security_stu_opt_out_rollback_no_security_popup_text">Данный экран может быть скрыт, только при включенной функции блокировки экрана системы. Пожалуйста, активируйте функцию блокировки экрана системы, чтобы скрыть данный экран.</string>
+    <string name="buzzscreen_security_stu_opt_out_rollback_popup_text">В соответствии с политикой Google Play вы больше не можете перейти на главный экран, нажав кнопку «Домой». Приносим извинения за неудобства.</string>
+    <string name="buzzscreen_security_swipe_to_unlock">Разблокируйте</string>
+    <string name="buzzscreen_security_warning_duplicated_lock">Ваш экран блокировки Android настроен надежно. Если вы хотите использовать блокировку безопасности %s, вам придется разблокировать устройство дважды. Хотите продолжить?</string>
+    <string name="buzzscreen_share_dialog_title">Делиться</string>
+    <string name="buzzscreen_snackbar_bookmarked">Отмеченный!</string>
+    <string name="buzzscreen_snackbar_followed">%s с последующим</string>
+    <string name="buzzscreen_snackbar_unfollowed">%s ун-последующим</string>
+    <string name="buzzscreen_title_bookmarks">Закладки</string>
+    <string name="buzzscreen_title_explore">Категории</string>
+    <string name="buzzscreen_title_following">Избранное</string>
+    <string name="buzzscreen_title_for_you">Для тебя</string>
+    <string name="buzzscreen_title_videos">Видео</string>
+    <string name="buzzscreen_tutorial_bookmark_message">Похоже, сегодня ничего не видно.\nДабавьте в закладки то что вам понравилось, чтобы прочитать позже.</string>
+    <string name="buzzscreen_tutorial_explore_message">Вы можете следить за любимыми категориями!</string>
+    <string name="buzzscreen_tutorial_explore_title">Поиск по категориям</string>
+    <string name="buzzscreen_tutorial_following_message">Вы ещё ничего не добавили в избранное!</string>
+    <string name="buzzscreen_tutorial_following_title">Исследуйте темы и публикации ></string>
+    <string name="buzzscreen_tutorial_for_you_message">Просмотр популярного контента или просмотра по категориям!</string>
+    <string name="buzzscreen_tutorial_for_you_title">Добро пожаловать в фид контента</string>
+    <string name="buzzscreen_tutorial_videos_message">Смотрите новости в видео формате!</string>
+    <string name="buzzscreen_tutorial_videos_title">Видео</string>
+    <string name="bz_network_error_retry">Пожалуйста, повторите позже.</string>
+    <string name="character_counter_content_description">Введено символов: %1$d из %2$d</string>
+    <string name="character_counter_overflowed_content_description">Превышено ограничение на количество символов (%1$d из %2$d)</string>
+    <string name="clear_text_end_icon_content_description">Очистить текстовое поле</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Включить"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется включить сервисы Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Включите сервисы Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Установить"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется установить сервисы Google Play."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Установите сервисы Google Play"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Доступность сервисов Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Ошибка сервисов Google Play"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Приложению \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" не удается подключиться к сервисам Google Play. Повторите попытку."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Для работы с приложением \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуются сервисы Google Play. Они не поддерживаются на вашем устройстве."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Обновить"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Чтобы запустить приложение \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", обновите сервисы Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Обновите сервисы Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Сервисы Google Play, необходимые для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", в настоящий момент обновляются."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Открыть на телефоне"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Войти"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Войти через аккаунт Google"</string>
+    <string name="error_icon_content_description">Ошибка</string>
+    <string name="exo_controls_fastforward_description">Перемотать вперед</string>
+    <string name="exo_controls_fullscreen_description">Полноэкранный режим</string>
+    <string name="exo_controls_hide">Скрыть панель управления</string>
+    <string name="exo_controls_next_description">Следующий трек</string>
+    <string name="exo_controls_pause_description">Приостановить</string>
+    <string name="exo_controls_play_description">Воспроизвести</string>
+    <string name="exo_controls_previous_description">Предыдущий трек</string>
+    <string name="exo_controls_repeat_all_description">Повторять все</string>
+    <string name="exo_controls_repeat_off_description">Не повторять</string>
+    <string name="exo_controls_repeat_one_description">Повторять трек</string>
+    <string name="exo_controls_rewind_description">Перемотать назад</string>
+    <string name="exo_controls_show">Показать панель управления</string>
+    <string name="exo_controls_shuffle_off_description">Перемешивание отключено</string>
+    <string name="exo_controls_shuffle_on_description">Перемешивание включено</string>
+    <string name="exo_controls_stop_description">Остановить</string>
+    <string name="exo_controls_vr_description">VR-режим</string>
+    <string name="exo_download_completed">Скачивание завершено</string>
+    <string name="exo_download_description">Скачать</string>
+    <string name="exo_download_downloading">Скачивание…</string>
+    <string name="exo_download_failed">Ошибка скачивания</string>
+    <string name="exo_download_notification_channel_name">Скачивания</string>
+    <string name="exo_download_removing">Удаление скачанных файлов…</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Мбит/сек</string>
+    <string name="exo_track_mono">Моно</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Другая запись</string>
+    <string name="exo_track_role_closed_captions">Субтитры</string>
+    <string name="exo_track_role_commentary">Комментарии</string>
+    <string name="exo_track_role_supplementary">Дополнительные материалы</string>
+    <string name="exo_track_selection_auto">Авто</string>
+    <string name="exo_track_selection_none">Нет</string>
+    <string name="exo_track_selection_title_audio">Аудио</string>
+    <string name="exo_track_selection_title_text">Текст</string>
+    <string name="exo_track_selection_title_video">Видео</string>
+    <string name="exo_track_stereo">Стерео</string>
+    <string name="exo_track_surround">Объемный звук</string>
+    <string name="exo_track_surround_5_point_1">Система объемного звука 5.1</string>
+    <string name="exo_track_surround_7_point_1">Система объемного звука 7.1</string>
+    <string name="exo_track_unknown">Неизвестный трек</string>
+    <string name="exposed_dropdown_menu_content_description">Показать раскрывающееся меню</string>
+    <string name="icon_content_description">Значок диалогового окна</string>
+    <string name="item_view_role_description">Вкладка</string>
+    <string name="material_clock_toggle_content_description">Выберите AM (до полудня) или PM (после полудня)</string>
+    <string name="material_hour_selection">Выберите час</string>
+    <string name="material_hour_suffix">%1$s ч.</string>
+    <string name="material_minute_selection">Выберите минуты</string>
+    <string name="material_minute_suffix">%1$s мин.</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Чтобы ввести время, перейдите в режим часов.</string>
+    <string name="material_timepicker_hour">Час</string>
+    <string name="material_timepicker_minute">Минуты</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Выбор времени</string>
+    <string name="material_timepicker_text_input_mode_description">Чтобы ввести время, перейдите в режим ввода текста.</string>
+    <string name="mtrl_badge_numberless_content_description">Новое уведомление</string>
+    <string name="mtrl_chip_close_icon_content_description">Удалить \"%1$s\"</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Новых уведомлений больше %1$d</string>
+    <string name="mtrl_picker_a11y_next_month">Перейти к следующему месяцу</string>
+    <string name="mtrl_picker_a11y_prev_month">Перейти к предыдущему месяцу</string>
+    <string name="mtrl_picker_announce_current_selection">Выбранный элемент: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Выберите дату</string>
+    <string name="mtrl_picker_date_header_unselected">Выбранная дата</string>
+    <string name="mtrl_picker_day_of_week_column_header">Столбец со днями недели: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Недействительный формат.</string>
+    <string name="mtrl_picker_invalid_format_example">Пример: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Используйте: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Недопустимый диапазон.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Перейти к %1$s году</string>
+    <string name="mtrl_picker_out_of_range">Вне диапазона: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Дата начала – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – дата окончания</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Выберите диапазон дат</string>
+    <string name="mtrl_picker_range_header_unselected">Дата начала – дата окончания</string>
+    <string name="mtrl_picker_save">Сохранить</string>
+    <string name="mtrl_picker_text_input_date_hint">Дата</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Дата окончания</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Дата начала</string>
+    <string name="mtrl_picker_text_input_day_abbr">д</string>
+    <string name="mtrl_picker_text_input_month_abbr">м</string>
+    <string name="mtrl_picker_text_input_year_abbr">г</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Перейти в режим выбора дней</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Нажмите, чтобы перейти к выбору дня</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Перейти в режим ввода текста</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Нажмите, чтобы перейти к выбору года</string>
+    <string name="no_thank_you">Нет, спасибо</string>
+    <string name="password_toggle_content_description">Показать пароль</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Поиск"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="tt_00_00">00:00</string>
+    <string name="tt_ad">Рекламное объявление</string>
+    <string name="tt_ad_clicked_text">Нажатий на рекламу</string>
+    <string name="tt_ad_close_text">Реклама закрыта</string>
+    <string name="tt_ad_data_error">Response data error</string>
+    <string name="tt_ad_is_closed">Объявления закрыты</string>
+    <string name="tt_ad_logo_txt">Рекламное объявление</string>
+    <string name="tt_ad_showed_text">Просмотрено роликов</string>
+    <string name="tt_adslot_empty">No request ad slot</string>
+    <string name="tt_adslot_id_error">Illegal ad slot id</string>
+    <string name="tt_adslot_size_empty">Empty ad slot size</string>
+    <string name="tt_adtype_not_match_rit">Ad slot id error</string>
+    <string name="tt_app_empty">No request app</string>
+    <string name="tt_app_name">tt_open_ad_sdk</string>
+    <string name="tt_auto_play_cancel_text">Отмена</string>
+    <string name="tt_banner_ad_load_image_error">Banner loading failed</string>
+    <string name="tt_cancel">Отмена</string>
+    <string name="tt_choose_language">ru</string>
+    <string name="tt_click_to_replay">Нажмите, чтобы  воспроизвести еще раз</string>
+    <string name="tt_comment_num">Оценки: %1$s</string>
+    <string name="tt_comment_num_backup">Оценки: %1$s</string>
+    <string name="tt_comment_score">Оценка</string>
+    <string name="tt_confirm_download">Вы не подключены к сети Wi-Fi. Действительно начать загрузку?</string>
+    <string name="tt_confirm_download_have_app_name">Подготовка к загрузке приложений: %s</string>
+    <string name="tt_content_type">Http content type error</string>
+    <string name="tt_count_down_view">Пропустить</string>
+    <string name="tt_dislike_header_tv_back">Назад</string>
+    <string name="tt_dislike_header_tv_title">Выбрать</string>
+    <string name="tt_error_access_method_pass">Illegal access method</string>
+    <string name="tt_error_ad_type">Illegal ad type</string>
+    <string name="tt_error_adtype_differ">Ad type error</string>
+    <string name="tt_error_apk_sign_check_error">Illegal apk sha1 value</string>
+    <string name="tt_error_code_adcount_error">Incorrect number of ad</string>
+    <string name="tt_error_code_click_event_error">Click event error</string>
+    <string name="tt_error_image_size">Illegal image size</string>
+    <string name="tt_error_media_id">Illegal media id</string>
+    <string name="tt_error_media_type">Illegal media type</string>
+    <string name="tt_error_new_register_limit">New ad slot exceeded daily request limit</string>
+    <string name="tt_error_origin_ad_error">Origin type error</string>
+    <string name="tt_error_package_name">Package name error</string>
+    <string name="tt_error_redirect">Redirect error</string>
+    <string name="tt_error_request_invalid">Invalid request</string>
+    <string name="tt_error_slot_id_app_id_differ">SlotId and AppId match error</string>
+    <string name="tt_error_splash_ad_type">Splash ad type error</string>
+    <string name="tt_error_union_os_error">Os type error</string>
+    <string name="tt_error_union_sdk_too_old">Sdk version too low</string>
+    <string name="tt_error_unknow">Unknown error</string>
+    <string name="tt_error_verify_reward">Reward verify error</string>
+    <string name="tt_feedback_experience_text">Мы постоянно работаем над улучшением качества рекламы.</string>
+    <string name="tt_feedback_submit_text">Вы уже оставили отзыв.Желательно оставлять  отзыв только один раз!</string>
+    <string name="tt_feedback_thank_text">Спасибо за ваш отзыв!</string>
+    <string name="tt_frequent_call_erroe">Ad requests are too frequent</string>
+    <string name="tt_full_screen_skip_tx">Пропустить</string>
+    <string name="tt_get_reward">Наград выдано</string>
+    <string name="tt_insert_ad_load_image_error">Interstitial loading failed</string>
+    <string name="tt_label_cancel">Отмена</string>
+    <string name="tt_label_ok">ОК</string>
+    <string name="tt_load_creative_icon_error">Icon loading failed</string>
+    <string name="tt_load_creative_icon_response_error">Icon loading error</string>
+    <string name="tt_load_failed_text">Ошибка загрузки рекламного ролика</string>
+    <string name="tt_load_success_text">Реклама успешно загружена</string>
+    <string name="tt_msgPlayable">Завершите просмотр, чтобы получить награду</string>
+    <string name="tt_negtiveBtnBtnText">Отказаться от награды</string>
+    <string name="tt_negtive_txt">Отмена</string>
+    <string name="tt_net_error">Network error</string>
+    <string name="tt_no_ad">No ad</string>
+    <string name="tt_no_ad_parse">Parsing data without ad</string>
+    <string name="tt_no_network">Нет соединения с сетью. Повторите позже.</string>
+    <string name="tt_parse_fail">Parsing error</string>
+    <string name="tt_permission_denied">Вы отключили необходимые разрешения. Включите их.</string>
+    <string name="tt_postiveBtnText">Продолжить просмотр</string>
+    <string name="tt_postiveBtnTextPlayable">Продолжить просмотр</string>
+    <string name="tt_postive_txt">ОК</string>
+    <string name="tt_reder_ad_load_timeout">Template loading timeout</string>
+    <string name="tt_render_diff_template_invalid">Template diff invalid</string>
+    <string name="tt_render_fail_meta_invalid">Template invalid</string>
+    <string name="tt_render_fail_template_parse_error">Template parsing error</string>
+    <string name="tt_render_fail_timeout">Render timeout</string>
+    <string name="tt_render_fail_unknown">Render failed unknown</string>
+    <string name="tt_render_main_template_invalid">Main template invalid</string>
+    <string name="tt_render_render_parse_error">Render parsing failed</string>
+    <string name="tt_request_body_error">Request entity is empty</string>
+    <string name="tt_request_pb_error">Http request pb error</string>
+    <string name="tt_request_permission_descript_external_storage">Память</string>
+    <string name="tt_request_permission_descript_location">Местоположение</string>
+    <string name="tt_request_permission_descript_read_phone_state">Телефон</string>
+    <string name="tt_reward_feedback">Отзыв</string>
+    <string name="tt_reward_msg">Завершите просмотр полного видео, чтобы получить награду</string>
+    <string name="tt_reward_screen_skip_tx">Пропустить</string>
+    <string name="tt_reward_video_show_error">Ошибка отображения видео с наградой</string>
+    <string name="tt_ror_code_show_event_error">Show event error</string>
+    <string name="tt_skip_ad_time_text">Можно пропустить через s %dс</string>
+    <string name="tt_splash_ad_load_image_error">Splash loading failed</string>
+    <string name="tt_splash_cache_expired_error">Cache expired</string>
+    <string name="tt_splash_cache_parse_error">Cache parsing failed</string>
+    <string name="tt_splash_not_have_cache_error">No splash cache</string>
+    <string name="tt_splash_skip_tv">3 с | Пропустить</string>
+    <string name="tt_sys_error">System error</string>
+    <string name="tt_tip">Просьба</string>
+    <string name="tt_toast_ad_on_rewarded">Ad on rewarded</string>
+    <string name="tt_toast_later_download">Download later</string>
+    <string name="tt_toast_no_ad">No Ad to Show, Please Load Ad</string>
+    <string name="tt_toast_start_loading">Start Loading</string>
+    <string name="tt_toast_tiktok_ad_failed">TikTok Ad Failed to load, error code is:</string>
+    <string name="tt_try_now">Попробуй</string>
+    <string name="tt_txt_skip">Пропустить</string>
+    <string name="tt_unlike">Не интересно</string>
+    <string name="tt_video_bytesize">Трафик</string>
+    <string name="tt_video_bytesize_M">M</string>
+    <string name="tt_video_bytesize_MB">MB</string>
+    <string name="tt_video_continue_play">Продолжить просмотр</string>
+    <string name="tt_video_dial_phone">Позвонить</string>
+    <string name="tt_video_download_apk">Скачать</string>
+    <string name="tt_video_mobile_go_detail">Вид</string>
+    <string name="tt_video_retry_des">Ошибка загрузки. Нажмите, чтобы попробовать снова</string>
+    <string name="tt_video_retry_des_txt">Ошибка загрузки. Попробуйте снова.</string>
+    <string name="tt_video_without_wifi_tips">На воспроизведение этого контента будет потрачено %.2f МБ трафика</string>
+    <string name="tt_wap_empty">No request wap</string>
+    <string name="tt_web_title_default">Рекламное объявление</string>
+    <string name="tt_will_play">Скоро начнется воспроизведение видео</string>
+    <string name="yes_i_agree">Да, я согласен (согласна)</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/iyonghwan/Desktop/Avatye_Dev/sample_react_native_cashbutton/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v27/values-v27.xml",
+            "map": [
+                {
+                    "source": "/Users/iyonghwan/.gradle/caches/transforms-3/41119cb630cedc742eb2d8767e8696c4/transformed/jetified-buzzad-benefit-base-3.0.1/res/values-v27/values-v27.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "510"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "481",
+                        "endLines": "15",
+                        "endColumns": "12",
+                        "endOffsets": "936"
+                    }
+                },
+                {
+                    "source": "/Users/iyonghwan/.gradle/caches/transforms-3/0b1fa292de68ab815afeef85bb8eb905/transformed/jetified-buzzresource2-2.1.7/res/values-v27/values-v27.xml",
+                    "from": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,481",
+                        "endLines": "8,15",
+                        "endColumns": "12,12",
+                        "endOffsets": "476,909"
+                    },
+                    "to": {
+                        "startLines": "2,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,941",
+                        "endLines": "8,22",
+                        "endColumns": "12,12",
+                        "endOffsets": "476,1369"
+                    }
+                }
+            ]
+        }
+    ]
+}

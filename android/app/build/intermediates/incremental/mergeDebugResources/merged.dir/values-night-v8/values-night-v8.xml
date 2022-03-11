@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ba_base_bridge_point_confirm_button_disabled">@color/bzv_gray_dark</color>
+    <color name="ba_base_bridge_point_confirm_button_normal">@color/bzv_status_best</color>
+    <color name="ba_base_bridge_point_gender_button_normal">@color/bzv_gray_dark</color>
+    <color name="ba_base_bridge_point_gender_button_selected">@color/bzv_status_best</color>
+    <color name="ba_base_bridge_point_gender_text">@color/bzv_black_100</color>
+    <color name="ba_base_bridge_point_gender_text_selected">@color/bzv_white_100</color>
+    <color name="ba_base_bridge_point_profile">@color/bzv_white_100</color>
+    <color name="ba_base_color_primary">@color/bzv_status_best</color>
+    <color name="ba_base_color_primary_dark">#0076DE</color>
+    <color name="ba_base_privacy_disagree_button_highlighted_solid">#e0e0e0</color>
+    <color name="ba_base_privacy_disagree_button_solid">@color/bzv_white_100</color>
+    <color name="ba_base_privacy_head_notice_background">@color/bzv_gray_lightest</color>
+    <color name="ba_base_privacy_policy_agree_button_text">@color/bzv_white_100</color>
+    <color name="ba_base_privacy_policy_background">@color/bzv_white_100</color>
+    <color name="ba_base_privacy_policy_bottomsheet_content_text">@color/bzv_gray_darkest</color>
+    <color name="ba_base_privacy_policy_bottomsheet_important_content_text">@color/bzv_black_100</color>
+    <color name="ba_base_privacy_policy_bottomsheet_title_text">@color/bzv_black_100</color>
+    <color name="ba_base_privacy_policy_disagree_button_text">@color/bzv_black_100</color>
+    <color name="ba_base_privacy_policy_head_notice_text">@color/bzv_black_100</color>
+    <color name="ba_base_submit_button_normal">#16A0E8</color>
+    <color name="ba_base_submit_button_selected">#0d608c</color>
+    <color name="ba_feed_activity_toolbar_background">#1290FF</color>
+    <color name="ba_feed_activity_toolbar_inquiry_button_tint">@color/bzv_white_100</color>
+    <color name="ba_feed_activity_toolbar_title_text">@color/bzv_white_100</color>
+    <color name="ba_feed_ad_description_text">@color/bzv_black_100</color>
+    <color name="ba_feed_ad_title_text">@color/bzv_black_100</color>
+    <color name="ba_feed_article_channel_text">@color/bzv_black_100</color>
+    <color name="ba_feed_article_timestamp_text">@android:color/darker_gray</color>
+    <color name="ba_feed_article_title_text">@color/bzv_black_100</color>
+    <color name="ba_feed_error_description_text">#646464</color>
+    <color name="ba_feed_error_title_text">#646464</color>
+    <color name="ba_feed_exit_interstitial_ad_background">@color/bzv_gray_snow</color>
+    <color name="ba_feed_exit_interstitial_dialog_background">@color/bzv_black_055</color>
+    <color name="ba_feed_inapp_landing_background">@color/bzv_white_100</color>
+    <color name="ba_feed_inapp_landing_button_tint">@color/bzv_black_100</color>
+    <color name="ba_feed_inapp_landing_progressbar_background">#641290FF</color>
+    <color name="ba_feed_inapp_landing_title_text">@color/bzv_black_100</color>
+    <color name="ba_feed_interstitial_cta_text_normal">@color/bzv_status_best</color>
+    <color name="ba_feed_interstitial_cta_text_selected">#0D62E0</color>
+    <color name="ba_feed_interstitial_negative_button_background_normal">@android:color/transparent</color>
+    <color name="ba_feed_interstitial_negative_button_background_selected">@color/bzv_gray_lighter</color>
+    <color name="ba_feed_interstitial_positive_button_background_normal">@color/bzv_gray_lightest</color>
+    <color name="ba_feed_interstitial_positive_button_background_selected">@color/bzv_gray_lighter</color>
+    <color name="ba_feed_privacy_policy_banner_background">@color/bzv_gray_lightest</color>
+    <color name="ba_feed_profile_arrow_back_fill">#ffffff</color>
+    <color name="ba_feed_profile_chevron_fill">#FF6F00</color>
+    <color name="ba_feed_profile_header_banner_description_text">@color/bzv_black_087</color>
+    <color name="ba_feed_profile_header_banner_text">@color/bzv_black_055</color>
+    <color name="ba_feed_profile_header_tint">@color/bzv_black_055</color>
+    <color name="ba_feed_profile_more_vertical_fill">#ffffff</color>
+    <color name="ba_feed_shopping_description_text">@color/bzv_black_100</color>
+    <color name="ba_feed_shopping_discounted_price_text">@color/bzv_black_100</color>
+    <color name="ba_feed_shopping_original_price_text">@color/bzv_gray_light</color>
+    <color name="ba_native_ad_top_icon">#F1F2F3</color>
+    <color name="ba_native_circle_loading_progress_center">#80FFFFFF</color>
+    <color name="ba_native_circle_loading_progress_end">@color/bzv_white_100</color>
+    <color name="ba_native_circle_loading_progress_start">#00FFFFFF</color>
+    <color name="ba_native_circle_reward_progress_end">@color/bzv_white_100</color>
+    <color name="ba_native_circle_reward_progress_start">@color/bzv_white_100</color>
+    <color name="ba_native_cta_reward_text">@color/bzv_white_100</color>
+    <color name="ba_native_cta_text">@color/bzv_white_100</color>
+    <color name="ba_native_default_cta_text">@color/bzv_white_100</color>
+    <color name="ba_native_ring_shape">#3D000000</color>
+    <color name="ba_native_video_controller_background">#54000000</color>
+    <color name="ba_native_video_controller_goto_text">@color/bzv_white_100</color>
+    <color name="ba_native_video_controller_replay_text">@color/bzv_white_100</color>
+    <color name="ba_native_video_controller_time_left_for_reward_text">@color/bzv_white_100</color>
+    <color name="ba_native_video_cta_button_border_solid">#B8000000</color>
+    <color name="ba_native_video_cta_button_border_stroke">@color/bzv_white_100</color>
+    <color name="ba_native_video_player_landing_button_text">@color/bzv_white_100</color>
+    <color name="ba_native_video_progress">#59000000</color>
+    <color name="ba_native_video_progress_text">@color/bzv_white_100</color>
+    <color name="buzzvil_cta_view_color_default">#536DFE</color>
+    <color name="buzzvil_cta_view_color_pressed">#2A4AFE</color>
+    <color name="buzzvil_grid_item_bg_color_default">@color/bzv_gray_lighter</color>
+    <color name="buzzvil_grid_item_text_color_default">@color/bzv_black_100</color>
+    <color name="bz_background_base">#1D2126</color>
+    <color name="bz_background_elevation">#24272D</color>
+    <color name="bz_background_emphasis">#16181A</color>
+    <color name="bz_background_modal">#2A2D31</color>
+    <color name="bz_background_overlay_drastic">#DEFFFFFF</color>
+    <color name="bz_background_overlay_light">#1FFFFFFF</color>
+    <color name="bz_background_overlay_lightest">@color/bzv_white_005</color>
+    <color name="bz_background_overlay_pressed">@color/bzv_white_005</color>
+    <color name="bz_background_overlay_ripple">@color/bzv_white_070</color>
+    <color name="bz_background_seperator">#15181D</color>
+    <color name="bz_browser_landing_reward_background">@android:color/white</color>
+    <color name="bz_browser_landing_reward_background_circle">@android:color/white</color>
+    <color name="bz_browser_landing_reward_check">#EEA923</color>
+    <color name="bz_browser_landing_reward_guide_background">@android:color/white</color>
+    <color name="bz_browser_landing_reward_guide_cancel_button_text">@android:color/black</color>
+    <color name="bz_browser_landing_reward_guide_confirm_button_text">@android:color/black</color>
+    <color name="bz_browser_landing_reward_guide_message_text">@android:color/black</color>
+    <color name="bz_browser_landing_reward_guide_title_text">@android:color/black</color>
+    <color name="bz_browser_landing_reward_how_to_confirm_button_text">@android:color/black</color>
+    <color name="bz_browser_landing_reward_scroll_indicator">@android:color/white</color>
+    <color name="bz_browser_landing_reward_scroll_indicator_background">#29000000</color>
+    <color name="bz_browser_reward_layout_how_to_description_text">#646464</color>
+    <color name="bz_browser_reward_layout_how_to_title_text">#66000000</color>
+    <color name="bz_browser_reward_layout_point_background">#FFEB3B</color>
+    <color name="bz_browser_reward_layout_point_background_shadow">#F2B94A</color>
+    <color name="bz_browser_reward_layout_point_text">#F57F17</color>
+    <color name="bz_browser_reward_layout_progress_background">#321290FF</color>
+    <color name="bz_browser_reward_layout_progress_passed">#1290FF</color>
+    <color name="bz_browser_reward_layout_remaining_time_text">#B3B3B3</color>
+    <color name="bz_circle_progress_view_completed">@color/bzv_gray_light</color>
+    <color name="bz_circle_progress_view_guide">#331290ff</color>
+    <color name="bz_circle_progress_view_progress">@color/bzv_status_best</color>
+    <color name="bz_cps_category_background_default">#E9F4FF</color>
+    <color name="bz_cps_category_background_selected">#0D62E0</color>
+    <color name="bz_cps_category_text_default">#0D62E0</color>
+    <color name="bz_cps_category_text_selected">#E9F4FF</color>
+    <color name="bz_cps_discount_percentage_text">#FF6363</color>
+    <color name="bz_cps_shopping_tag_color">#7C4DFF</color>
+    <color name="bz_dimmer_base">#B3070809</color>
+    <color name="bz_dimmer_drastic">#DE070809</color>
+    <color name="bz_feed_header_text">@color/bzv_black_087</color>
+    <color name="bz_feed_profile_header_background_normal">#FAFAFA</color>
+    <color name="bz_feed_profile_header_background_pressed">@color/bzv_black_005</color>
+    <color name="bz_feed_profile_header_text">#FF6F00</color>
+    <color name="bz_feed_status_default">#0d608c</color>
+    <color name="bz_feed_tab_default_color">#3D3E3F</color>
+    <color name="bz_feed_tab_divider_color">#DDDEDF</color>
+    <color name="bz_feed_tab_selected_color">#1290FF</color>
+    <color name="bz_feed_toolbar_default">@color/bz_background_base</color>
+    <color name="bz_privacy_primary_color">#1290FF</color>
+    <color name="bz_privacy_primary_pressed">#0072D6</color>
+    <color name="bz_profile_divider_error">@color/bzv_status_alert</color>
+    <color name="bz_profile_divider_normal">@color/bz_background_emphasis</color>
+    <color name="bz_profile_guide_error">@color/bzv_status_alert</color>
+    <color name="bz_profile_guide_normal">@color/bz_text_description</color>
+    <color name="bz_text_assistive">#999B9D</color>
+    <color name="bz_text_base">#D2D3D4</color>
+    <color name="bz_text_deem">#FFFFFF</color>
+    <color name="bz_text_description">#C9CACB</color>
+    <color name="bz_text_disabled">#53565A</color>
+    <color name="bz_text_emphasis">@color/bzv_white_100</color>
+    <color name="bz_text_overlay">#000000</color>
+    <color name="bz_text_participated">#54000000</color>
+    <color name="bz_view_privacy_policy_banner_background">@android:color/transparent</color>
+    <color name="bzv_default_cta_disabled">#1F04202f</color>
+    <color name="bzv_default_cta_normal">#16A0E8</color>
+    <color name="bzv_default_cta_pressed">#0d608c</color>
+    <color name="bzv_native_to_feed_overlay_background">@color/bzv_black_070</color>
+    <color name="bzv_native_to_feed_overlay_background_view_default">@android:color/transparent</color>
+    <color name="bzv_native_to_feed_overlay_background_view_pressed">@color/bzv_black_070</color>
+    <color name="bzv_native_to_feed_overlay_text_layout">@color/bzv_white_100</color>
+    <color name="bzv_opt_in_and_show_pop_button_text_color">@color/bzv_white_100</color>
+    <color name="bzv_text_base">@color/bzv_gray_darkest</color>
+    <color name="bzv_text_emphasis">@color/bzv_black_100</color>
+    <color name="bzv_text_overlay">@color/bzv_white_100</color>
+    <style name="Theme.AppCompat.DayNight" parent="Theme.AppCompat"/>
+    <style name="Theme.AppCompat.DayNight.DarkActionBar" parent="Theme.AppCompat"/>
+    <style name="Theme.AppCompat.DayNight.Dialog" parent="Theme.AppCompat.Dialog"/>
+    <style name="Theme.AppCompat.DayNight.Dialog.Alert" parent="Theme.AppCompat.Dialog.Alert"/>
+    <style name="Theme.AppCompat.DayNight.Dialog.MinWidth" parent="Theme.AppCompat.Dialog.MinWidth"/>
+    <style name="Theme.AppCompat.DayNight.DialogWhenLarge" parent="Theme.AppCompat.DialogWhenLarge"/>
+    <style name="Theme.AppCompat.DayNight.NoActionBar" parent="Theme.AppCompat.NoActionBar"/>
+    <style name="Theme.MaterialComponents.DayNight" parent="Theme.MaterialComponents"/>
+    <style name="Theme.MaterialComponents.DayNight.BottomSheetDialog" parent="Theme.MaterialComponents.BottomSheetDialog"/>
+    <style name="Theme.MaterialComponents.DayNight.Bridge" parent="Theme.MaterialComponents.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar" parent="Theme.MaterialComponents"/>
+    <style name="Theme.MaterialComponents.DayNight.DarkActionBar.Bridge" parent="Theme.MaterialComponents.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog" parent="Theme.MaterialComponents.Dialog"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert" parent="Theme.MaterialComponents.Dialog.Alert"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Alert.Bridge" parent="Theme.MaterialComponents.Dialog.Alert.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.Bridge" parent="Theme.MaterialComponents.Dialog.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize" parent="Theme.MaterialComponents.Dialog.FixedSize"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.FixedSize.Bridge" parent="Theme.MaterialComponents.Dialog.FixedSize.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth" parent="Theme.MaterialComponents.Dialog.MinWidth"/>
+    <style name="Theme.MaterialComponents.DayNight.Dialog.MinWidth.Bridge" parent="Theme.MaterialComponents.Dialog.MinWidth.Bridge"/>
+    <style name="Theme.MaterialComponents.DayNight.DialogWhenLarge" parent="Theme.MaterialComponents.DialogWhenLarge"/>
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar" parent="Theme.MaterialComponents.NoActionBar"/>
+    <style name="Theme.MaterialComponents.DayNight.NoActionBar.Bridge" parent="Theme.MaterialComponents.NoActionBar.Bridge"/>
+    <style name="ThemeOverlay.AppCompat.DayNight" parent="ThemeOverlay.AppCompat.Dark"/>
+    <style name="ThemeOverlay.MaterialComponents.DayNight.BottomSheetDialog" parent="ThemeOverlay.MaterialComponents.BottomSheetDialog"/>
+    <style name="Widget.MaterialComponents.ActionBar.PrimarySurface" parent="Widget.MaterialComponents.ActionBar.Surface"/>
+    <style name="Widget.MaterialComponents.AppBarLayout.PrimarySurface" parent="Widget.MaterialComponents.AppBarLayout.Surface"/>
+    <style name="Widget.MaterialComponents.BottomAppBar.PrimarySurface" parent="Widget.MaterialComponents.BottomAppBar"/>
+    <style name="Widget.MaterialComponents.BottomNavigationView.PrimarySurface" parent="Widget.MaterialComponents.BottomNavigationView"/>
+    <style name="Widget.MaterialComponents.TabLayout.PrimarySurface" parent="Widget.MaterialComponents.TabLayout"/>
+    <style name="Widget.MaterialComponents.Toolbar.PrimarySurface" parent="Widget.MaterialComponents.Toolbar.Surface"/>
+</resources>

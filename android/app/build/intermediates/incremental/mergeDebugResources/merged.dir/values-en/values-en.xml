@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ch_ayp_live">LIVE</string>
+    <string name="ch_ayp_null_time">0:00</string>
+    <string name="tt_full_screen_skip_tx">It can be skipped after 5 seconds</string>
+    <string name="tt_reward_feedback">feedback</string>
+</resources>

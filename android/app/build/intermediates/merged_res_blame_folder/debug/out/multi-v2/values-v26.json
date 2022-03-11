@@ -1,0 +1,58 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/iyonghwan/Desktop/Avatye_Dev/sample_react_native_cashbutton/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
+            "map": [
+                {
+                    "source": "/Users/iyonghwan/.gradle/caches/transforms-3/41119cb630cedc742eb2d8767e8696c4/transformed/jetified-buzzad-benefit-base-3.0.1/res/values-v26/values-v26.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "511"
+                    },
+                    "to": {
+                        "startLines": "24",
+                        "startColumns": "4",
+                        "startOffsets": "1416",
+                        "endLines": "30",
+                        "endColumns": "12",
+                        "endOffsets": "1872"
+                    }
+                },
+                {
+                    "source": "/Users/iyonghwan/.gradle/caches/transforms-3/0b1fa292de68ab815afeef85bb8eb905/transformed/jetified-buzzresource2-2.1.7/res/values-v26/values-v26.xml",
+                    "from": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,482",
+                        "endLines": "8,15",
+                        "endColumns": "12,12",
+                        "endOffsets": "477,911"
+                    },
+                    "to": {
+                        "startLines": "17,31",
+                        "startColumns": "4,4",
+                        "startOffsets": "989,1877",
+                        "endLines": "23,37",
+                        "endColumns": "12,12",
+                        "endOffsets": "1411,2306"
+                    }
+                },
+                {
+                    "source": "/Users/iyonghwan/.gradle/caches/transforms-3/d7f19fb48ed68be2921ae87dc8e58f8e/transformed/appcompat-1.3.0/res/values-v26/values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,431,657,896",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,426,652,891,984"
+                    }
+                }
+            ]
+        }
+    ]
+}

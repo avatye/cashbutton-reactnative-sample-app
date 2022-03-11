@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/iyonghwan/Desktop/Avatye_Dev/sample_react_native_cashbutton/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+            "map": [
+                {
+                    "source": "/Users/iyonghwan/.gradle/caches/transforms-3/2bf1294708e2d3fbcee255014c8cc990/transformed/jetified-buzzad-benefit-pop-3.0.1/res/values-v19/values-v19.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "741"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/iyonghwan/Desktop/Avatye_Dev/sample_react_native_cashbutton/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en/values-en.xml",
+            "map": [
+                {
+                    "source": "/Users/iyonghwan/.gradle/caches/transforms-3/3b9369d5f575939bcc76058c10e91dd0/transformed/jetified-plugin-android-9.0.9/res/values-en/values-en.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,100",
+                        "endColumns": "44,49",
+                        "endOffsets": "95,145"
+                    }
+                },
+                {
+                    "source": "/Users/iyonghwan/.gradle/caches/transforms-3/ee7c2a8750514b769ebdc8e4c2bdf3a3/transformed/jetified-ads-sdk-4.1.1.8/res/values-en/values-en.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,140",
+                        "endColumns": "84,55",
+                        "endOffsets": "135,191"
+                    },
+                    "to": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "150,235",
+                        "endColumns": "84,55",
+                        "endOffsets": "230,286"
+                    }
+                }
+            ]
+        }
+    ]
+}
